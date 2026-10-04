@@ -41,16 +41,16 @@ This repository serves as a collection of recent advancements in employing large
 - LLMs-Graphs Intergration
 
 <p align='center'>
-<img src="fig/LLM-Graph_Intergration.png" width=60% alt="LLMs as Prefix" />
+<img src="fig/LLM-Graph_Intergration.png" width=60% alt="LLMs-Graphs Intergration" />
 </p>
 
 - LLMs-Only
 
 <p align='center'>
-<img src="fig/LLM_only.png" width=60% alt="LLMs as Prefix" />
+<img src="fig/LLM_only.png" width=60% alt="LLMs-Only" />
 </p>
 
-We hope this repository proves valuable to your research or practice in the field of self-supervised learning for recommendation systems. If you find it helpful, please consider citing our work:
+We hope this repository proves valuable to your research or practice in large language models for graph learning. If you find it helpful, please consider citing our work:
 
 ```bibtex
 @inproceedings{ren2024survey,
