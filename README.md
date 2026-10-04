@@ -41,7 +41,7 @@ This repository serves as a collection of recent advancements in employing large
 - LLMs-Graphs Intergration
 
 <p align='center'>
-<img src="fig/LLM-Graph_Intergration.png" width=60% alt="LLMs-Graphs Intergration" />
+<img src="fig/LLM-Graph_Intergration.png" width=60% alt="Integration of LLMs and graphs" />
 </p>
 
 - LLMs-Only
