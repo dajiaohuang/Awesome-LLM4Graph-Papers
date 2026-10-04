@@ -153,7 +153,9 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (arxiv'2024) Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments [[paper](https://arxiv.org/pdf/2403.08593)]
 - (ICLR'2024) Reasoning on graphs: Faithful and interpretable large language model reasoning [[paper](https://arxiv.org/pdf/2310.01061)]
 
-## 🌐 LLMs-Only (* indicates that VLMs are utilized)
+## 🌐 LLMs-Only
+\* indicates that VLMs are utilized.
+
 ### Tuning-free
 - (NeurIPS'2023) Can language models solve graph problems in natural language? [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/622afc4edf2824a1b6aaf5afe153fa93-Paper-Conference.pdf)]
 - (arxiv'2023) GPT4Graph: Can large language models understand graph structured data? an empirical evaluation and benchmarking [[paper](https://arxiv.org/pdf/2305.15066)]
